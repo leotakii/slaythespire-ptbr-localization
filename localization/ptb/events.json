@@ -63,7 +63,7 @@
 			"Você ignora o templo, confiante em sua escolha."
 	],
     "OPTIONS": [
-			"[Orar] #gDuplica #guma #gcarta #gem #gseu #gbaralho.",
+			"[Orar] #gDuplique #guma #gcarta #gem #gseu #gbaralho.",
 			"[Sair]",
 			"Selecione uma Carta para Duplicar."
     ]
@@ -76,7 +76,7 @@
 			"Sem certeza da natureza desta água, você continua em seu caminho, sedento."
 	],
     "OPTIONS": [
-			"[Beber] #gRemove #gtodas #gas #gMaldições #gdo #gseu #gbaralho.",
+			"[Beber] #gRemova #gtodas #gas #gMaldições #gdo #gseu #gbaralho.",
 			"[Sair]"
     ]
   },
@@ -89,8 +89,8 @@
 			"Você ignora o santuário."
 	],
     "OPTIONS": [
-      "[Orar] #gGanhe #g",
-			" #gOuro.",
+      			"[Orar] #gGanhe #g",
+			"de #gOuro.",
 			"[Profanar] #gGanhe #g250 #gde #gOuro. #rSeja #rAmaldiçoado #r- #rArrependimento.",
 			"[Sair]"
     ]
@@ -134,7 +134,7 @@
 	"NAME": "Santuário do Aprimoramento",
     "DESCRIPTIONS": [
 			"À sua frente se encontra um elaborado santuário a um espírito esquecido.",
-			"A energia do santuário flui para dentro de você, fazendo-o mais forte.",
+			"A energia do santuário flui para dentro de você, te fazendo mais forte.",
 			"Você ignora o santuário."
 	],
     "OPTIONS": [
@@ -199,7 +199,7 @@
 	],
     "OPTIONS": [
 			"[Pular Dentro] #gCure #gpara #gPV #gcheio. #rPerca #r",
-      " #rPV #Máximo.",
+      			" #rPV #Máximo.",
 			"[Oferecer: Ídolo Dourado] #gReceba #g333 #gde #gOuro. #rPerca #ro #rÍdolo #rDourado.",
 			"[Bloqueado] Requer: Ídolo Dourado.",
 			"[Sair]"
@@ -258,7 +258,7 @@
     "OPTIONS": [
 			"...",
 			"[Abraçar Loucura] #gReceba #g2 #gLoucura. #rPerca #r",
-      " #rPV.",
+      			" #rPV.",
 			"[Focar] #rSeja #rAmaldiçoado #r- #rTorção. #gCure #g",
 			"[Sair]",
 			" #gPV."
@@ -296,11 +296,11 @@
 			"[Bloqueado] Requer: ",
 			" de Ouro.",
 			"[Purificar] #y",
-      " #yde #yOuro: #gRemove #guma #gcarta #gdo #gseu #gbaralho.",
+      			" #yde #yOuro: #gRemove #guma #gcarta #gdo #gseu #gbaralho.",
 			"[Bloqueado] Requer: 50 de Ouro.",
 			"[Sair]",
 			"Selecione uma Carta para Remover.",
-      "."
+      			"."
     ]
   },
   "Dead Adventurer": {
@@ -342,7 +342,7 @@
 			"[Correr] #rSeja #rAmaldiçoado #r- #rFerimento.",
 			"[Arrebentar] #rSofra #r",
 			" #rde #rDano.",
-			"[Enconder] #rPerca #r",
+			"[Esconder-se] #rPerca #r",
 			" #rPV #rMáximo."
     ]
   },
@@ -370,8 +370,8 @@
   "World of Goop": {
 	"NAME": "Mundo de Gosma",
     "DESCRIPTIONS": [
-			"Você cai em uma poça. NL @ELA@ @É@ @FEITA@ @DE@ #g@GOSMA@!!@ NL Frenéticamente, você se arranha por muitos minutos conforme você sente a gosma começar a queimar. NL Você consegue sentir gosma em seus ouvidos, gosma em seu nariz, gosma em todo lugar. NL NL Saindo de lá, você nota que parte do seu #youro está faltando. Olhando novamente para a poça você vê suas moedas perdidas combinadas com #youro de outros aventureiros infelizes misturadas juntas dentro da poça.",
-			"Sentindo a ardência da gosma conforme o contato prolongado começa a derreter na sua pede, você consegue pescar o #youro.",
+			"Você cai em uma poça. NL @ELA@ @É@ @FEITA@ @DE@ #g@GOSMA@!!@ NL Frenéticamente, você se arranha por muitos minutos conforme você sente a gosma começar a queimar. NL Você consegue sentir gosma em seus ouvidos, gosma em seu nariz, gosma em todo lugar. NL NL Saindo de lá, você nota que parte do seu #youro está faltando. Olhando novamente para a poça você vê suas moedas perdidas combinadas com #youro de outros aventureiros infelizes misturados juntos dentro da poça.",
+			"Sentindo a ardência da gosma conforme o contato prolongado começa a derreter na sua pele, você consegue pescar o #youro.",
 			"Você decide que aquela bagunça não vale a pena."
 	],
     "OPTIONS": [
@@ -386,10 +386,10 @@
   "Liars Game": {
 	"NAME": "A Ssssserpente",
     "DESCRIPTIONS": [
-			"Você entra em uma sala e encontra um grande buraco no chão. Conforme você se aproxima do buraco, uma enorme criatura em forma de serpente aparece de dentro. NL NL ~\"Ho~ ~hooo!~ ~Olá~ ~olá!~ ~o~ ~que~ ~temos~ ~aqui?~ Olá aventureiro, eu tenho uma simples pergunta. NL A mais gratificante das vidas é aquela em que você pode #y~comprar~ #y~qualquer~ ~#ycoisa!~ NL Você concorda?\"",
+			"Você entra em uma sala e encontra um grande buraco no chão. Conforme você se aproxima do buraco, uma enorme criatura em forma de serpente aparece de dentro. NL NL ~\"Hô~ ~hôoo!~ ~Olá~ ~olá!~ ~o~ ~que~ ~temos~ ~aqui?~ Olá aventureiro, eu tenho uma simples pergunta. NL A mais gratificante das vidas é aquela em que você pode #y~comprar~ #y~qualquer~ ~#ycoisa!~ NL Você concorda?\"",
 			"~\"Sssssssssssssssiiiiiiim!~ NL ~Tudo~ ~isssssso~ ~valerá~ ~a~ ~pena.~ NL ~..ssSSs.....~ ~ss...~ ~sssss....!\"~",
 			"A serpente te observa com um olhar de extremo desapontamento.",
-			"A serpente ergue a cabeça e começa a jorrar #youro para cima! NL É incrível e arrepilante ao mesmo tempo. NL Você recolhe todo o #youro, agradece a cobra, e segue seu caminho."
+			"A serpente ergue a cabeça e começa a jorrar #youro para cima! NL É incrível e horripilante ao mesmo tempo. NL Você recolhe todo o #youro, agradece a cobra, e segue seu caminho."
 	],
     "OPTIONS": [
 			"[Concordar] #gReceba #g",
@@ -402,7 +402,7 @@
   "Living Wall": {
 	"NAME": "Parede Viva",
     "DESCRIPTIONS": [
-			"Conforme você chega em um caminho sem saída e começa e virar, paredes @descem@ @violentamente@ do teto, te encurralando! NL NL Três faces se materializam das paredes e falam. NL #b\"Esqueça #bo #bque #bvocê #bsabe, #be #beu #bo #bdeixarei #bir.\" NL #p\"Eu #prequiro #pmudança #ppara #pver #pum #pnovo #plugar.\" NL #y\"Se #yvocê #yquiser #ypassar #ypor #ymim, #yentão #yvocê #yprecisa #ycrescer.\"",
+			"Conforme você chega em um caminho sem saída e começa e virar, paredes @descem@ @violentamente@ do teto, te encurralando! NL NL Três faces se materializam das paredes e falam. NL #b\"Esqueça #bo #bque #bvocê #bsabe, #be #beu #bte #bdeixarei #bir.\" NL #p\"Eu #prequiro #pmudança #ppara #pver #pum #pnovo #plugar.\" NL #y\"Se #yvocê #yquiser #ypassar #ypor #ymim, #yentão #yvocê #yprecisa #ycrescer.\"",
 			"Satisfeitas, as paredes a sua frente se misturam novamente ao teto, liberando um caminho adiante."
 	],
     "OPTIONS": [
@@ -421,7 +421,7 @@
     "DESCRIPTIONS": [
 			"Você sucumbe a um desejo sobrenatural de comer. Conforme você come cogumelo atrás de cogumelo, você a se sente entrando em torpor e apaga. Conforme você acorda, você se sente muito estranho. NL #gCure #b25% do seu PV, mas você também se torna #rinfectado.",
 			"#r@Emboscado!!@ NL Roedores infestados pelos cogumelos aparecem do nada!",
-			"Você entra em um corredor cheio de #b~hipnotizantes~ #b~cogumelos~ #b~coloridos.~ NL Devido à sua falta de especialização em micologia você não é capaz de identificar as espécimes. NL Você quer fugir, mas se sente estranhamento compelido a comer #b~cogumelos...~"
+			"Você entra em um corredor cheio de #b~hipnotizantes~ #b~cogumelos~ #b~coloridos.~ NL Devido à sua falta de especialização em micologia você não é capaz de identificar as espécimes. NL Você quer fugir, mas se sente estranhamente compelido a comer #b~cogumelos...~"
 	],
     "OPTIONS": [
 			"[Pisotear] #rEnfureça #ros #rCogumelos.",
@@ -435,7 +435,7 @@
 	"NAME": "N'loth",
     "DESCRIPTIONS": [
 			"Uma estranha criatura com a costa curvada de onde brotam vários tentáculos está vasculhando uma pilha de lixo e escombros na sua frente. Conforme você se aproxima, ele se move em sua direção de maneira inofensiva. NL \"N'loth faminto. Alimente N'loth.\"",
-			"Estendendo a #yrelíquia na direção dele, N’loth a toma de suas mãos com seus tentaculos, desloca sua mandíbula, e sorve sua oferenda em um rápido nhac. NL Ele te dá um largo, e dentoso sorriso conforme mais tentáculos surgem através de seu manto, estes brandindo uma caixa impossivelmente bacana. Ele a empura em sua direção até que você a pegue.",
+			"Estendendo a #yrelíquia na direção dele, N'loth a toma de suas mãos com seus tentáculos, desloca sua mandíbula, e engole sua oferenda em um rápido nhac. NL Ele te dá um largo, e dentoso sorriso conforme mais tentáculos surgem através de seu manto, estes brandindo uma caixa impossivelmente bacana. Ele a empurra em sua direção até que você a pegue.",
 			"Você balança sua cabeça. N'loth se curva ainda mais e suspira, e então foge."
 	],
     "OPTIONS": [
@@ -447,7 +447,7 @@
   "Scrap Ooze": {
 	"NAME": "Gosma de Sucata",
     "DESCRIPTIONS": [
-			"Conforme você entra na sala você escuta um ~murmúrio~ e um @ranger@ de metais. A sua frente está uma criatura semelhante a uma gosma que comeu muita sucata, mais do que o necessário. Do centro da criatura você vê relances de uma estranha luz, talvez algo mágico? Aparentemente você pode conseguir algum #ytesouro se apenas você alcançar sua... abertura. Entretanto, o ácido e objetos afiados podem #rmachucar.",
+			"Conforme você entra na sala você escuta um ~murmúrio~ e um @ranger@ de metais. À sua frente está uma criatura semelhante a uma gosma que comeu muita sucata, mais do que o necessário. Do centro da criatura você vê relances de uma estranha luz, talvez algo mágico? Aparentemente você pode conseguir algum #ytesouro se apenas você alcançar sua... abertura. Entretanto, o ácido e objetos afiados podem #rmachucar.",
 			"#r@Ouch!@ NL Tudo que você encontra é um pouco de metal corroído e algumas #r@queimaduras@ #r@dolorosas.@ NL Entretanto, você ainda está convicto que há uma #yrelíquia...",
 			"#gSucesso! NL Depois de remexer pelo metal e ácido ardente, você finalmente agarra uma #yrelíquia e a arranca para você. NL Você sai de dentro da gosma #rferido porém recompensado.",
 			"Você decide ir embora. NL A gosma nem o percebe, ainda feliz com sua refeição."
